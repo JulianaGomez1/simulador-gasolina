@@ -1,0 +1,33 @@
+
+body{
+  background-image: url("https://s1.1zoom.me/big0/562/345021-admin.jpg");
+  font-family: times;
+  font-size: 100%;
+  color: rgb(92, 129, 127);
+  margin-top: 50px;
+  margin-left: 30px;
+
+}
+
+h2{
+  margin-top: 100px;
+  color: rgb(51, 126, 101);
+}
+.text{
+  color: rgb(148, 98, 148);
+  font-family: sans-serif;
+  size: 90px;
+}
+button{
+  background-color: rgb(135, 153, 111);
+  border-radius: 30px;
+  border-color: grey;
+  font-family: franklin;
+  color: whitesmoke;
+}
+.total{
+  font-size: 18px;
+  color:rgb(230, 75, 75);
+  text-decoration: underline;
+  font-weight: bold;
+}
